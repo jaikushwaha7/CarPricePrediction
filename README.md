@@ -1,2 +1,1 @@
-# CarPricePrediction
-CarPricePrediction App
+# Car-Price-Prediction
